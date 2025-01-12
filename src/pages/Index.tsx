@@ -33,9 +33,9 @@ const Index = () => {
           </div>
           <div className="flex-1 relative animate-fade-in">
             <img
-              src="/lovable-uploads/1cd54670-e68c-4187-a879-b3b00e459d2a.png"
+              src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
               alt="Security Scanner"
-              className="w-full max-w-lg mx-auto"
+              className="w-full max-w-lg mx-auto rounded-lg shadow-xl"
             />
           </div>
         </div>
@@ -67,7 +67,7 @@ const Index = () => {
             </div>
             <div className="animate-fade-in">
               <img
-                src="/lovable-uploads/fb581866-4373-4ff9-bf5e-cfa9fdf03751.png"
+                src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb"
                 alt="How it works"
                 className="w-full max-w-lg mx-auto rounded-lg shadow-xl"
               />
@@ -84,7 +84,7 @@ const Index = () => {
           </h2>
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <img
-              src="/lovable-uploads/80b6fd9b-c31d-4636-bf8d-36df6564c984.png"
+              src="https://images.unsplash.com/photo-1563986768609-322da13575f3"
               alt="Features"
               className="w-full max-w-lg mx-auto rounded-lg shadow-xl animate-fade-in"
             />
